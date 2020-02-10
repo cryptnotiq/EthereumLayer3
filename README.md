@@ -79,7 +79,7 @@ What this process is designed to do is keep the key positions and level of respo
 
 <strong>Approaches and Limitations (Please Comment and Discuss any and all of the below points)</strong>
 
-1. There needs to be an economic model where the demand for the token is greater than the Rate of inflation or the token will only decrease in price. If demand is purely from token buybacks from application usage then the formula is simple. Tokens burned from application fees need to exceed tokens issued in staking reward.
+1. There needs to be an economic model where the demand for the token is greater than the Rate of inflation or the token will only decrease in price. If demand is purely from token buybacks from application usage then the formula is simple. Tokens burned from application fees need to exceed tokens issued fir staking rewards.
 
 2. For this model to truly take off there needs to be a plug and play solution where any project can plug in their tokens and use the governance, if a token swap is required for each project that is very messy and risky and does not seem like the right approach. 
 However, if a token swap is not completed and a plug n play solution is used, staking rewards will need to be a secondary token because most projects will be unable to mint additional tokens or have the right contracts in place for this to function appropriately. While having a universal reward token seems like the best solution, there needs to be a demand for this token or it will be worthless because the market will be one-sided with only sellers.
