@@ -2,7 +2,7 @@
 <strong>A proposal for giving tokens real value by solving underlying issues with current dapps</strong>
 
 Note to readers
-This paper is just my ideation. Please comment, critique, contribute, and explore. I am not looking for a scammy way to make otherwise worthless token models accrue value, or participate nor coordinate in any schemes around tokens. I genuinely want decentralisation to succeed and think there may be something to this layer 3 solution I propose. This is just a very rough first iteration of the concept, and to make it work (if it actually makes sense to) I need your feedback and criticism.
+This paper is just my ideation. Please comment, critique, contribute, and explore. 
 
 <strong>Background</strong>
 
