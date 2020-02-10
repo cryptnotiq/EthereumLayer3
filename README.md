@@ -6,7 +6,7 @@ This paper is just my ideation. Please comment, critique, contribute, and explor
 
 <strong>Background</strong>
 
-While many people may have written off most tokens as ever providing any value, there is an interesting paper published by Edward de Bono from the early 1990s, called “The IBM Dollar.” This paper suggests that all companies (he uses IBM as the prime example in his paper) should issue their own currency instead of stock. He goes on to explain the immense value and benefits it provides companies with over issuing equity. 
+While many people are skeptical of the value proposition of tokens, there is an interesting paper published by Edward de Bono from the early 1990s, called “The IBM Dollar.” This paper suggests that all companies (he uses IBM as the prime example in his paper) should issue their own currency instead of stock. He goes on to explain the immense value and benefits it provides companies with over issuing equity. 
 
 There are two things that technologists always do: 1)They overestimate how quickly adoption will happen.
 2)They underestimate the impact a new technology will have on society.
