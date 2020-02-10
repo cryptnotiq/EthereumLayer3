@@ -49,6 +49,7 @@ The rest of this paper is my proposal for how tokens can be actually be used to 
 Layer 3 tokens should be converted into Governance Tokens with a staking type mechanism that rewards users based on participation and penalises them for inactivity and foul behavior. Instead of users holding their tokens for speculative purposes to convert into more Bitcoin, ETH, or fiat, this model encourages them to participate. This solves both the token problem of not having a utility and solves the DAO problem of lack of user engagement and as a result enables projects to truly become decentralised. 
 
 The proposed model would function as follows:
+
 a. Users stake their tokens within the governance mechanism (let’s call it a DAO).
 
 b. There is an annual inflation of tokens (say 10% for this example) which is allocated proportionately to participants who have their tokens staked in the DAO.
