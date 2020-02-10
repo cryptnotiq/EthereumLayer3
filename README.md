@@ -65,6 +65,7 @@ This model is designed to incentivise engagement by both offering a reward for p
 Relying on a centralised team is one of the largest flaws of current decentralised applications. However, it is nearly impossible to keep a project progressing in a positive direction without having accountability. If a core team is removed from the equation, and a project solely relies on contributions from open source contributors or bounty hunters, there is a lack of responsibility which ultimately leaves the project vulnerable to hitting severe roadblocks in development or not solving critical issues because no one individual feels that it is there responsibility, unlike if someone is employed by the centralised company for the dapp and knows what their responsibilities are. Therefore, I am not proposing that positions be eliminated, but rather that the positions are governed in a decentralised manner and not from a centralised parent company. 
 
 The model could look something like this.
+
 a. Key positions are identified and approved via a DAO proposal.
 I.e community manager, moderators, social media manager, security lead, bounty manager, development lead/support, code curator for reviewing bounties, etc.
 
